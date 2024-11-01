@@ -1,7 +1,7 @@
-## ✨ TFQ ✨
+# ✨ TFQ ✨
 
-### Software Engineer
+### "No to monopoly, yes to open source"
 
 #### (-UwU-)
 
----
+
