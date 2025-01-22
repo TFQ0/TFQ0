@@ -1,5 +1,5 @@
-<h1 align="center"> ✨ TFQ ✨</h1>
-<div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJqbGZ5MnE2bjRtdHd1YXpzYmZjbmJnc2czaXl0NDhuNmdreGVkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FvTiU4YpDE4fs5NulS/giphy.gif width="140" />
+<h1 align="center">TFQ</h1>
+
 
 <h4 align="left"> "No to monopoly, yes to open source"</h4>
 <div align="center">
