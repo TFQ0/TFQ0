@@ -22,10 +22,6 @@
  <div align="center">
   <img src="https://github.com/TFQ0/TFQ0/blob/main/Hollow%20Knight%20Sticker.gif" width="80" /> 
 
-  
-<h4 align="center">Find me on</h4>
-
- [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/talal-alqahs/)
 
 
 <div align="left">
