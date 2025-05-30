@@ -60,14 +60,11 @@
   <img src="https://komarev.com/ghpvc/?username=TFQ0&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<div align="left">
-  <img src="https://github.com/TFQ0/TFQ0/blob/main/Sleepy%20Dark%20Souls%20Sticker.gif" width="220" /> 
+<div align="center">
+  <img src="https://github.com/TFQ0/TFQ0/blob/main/Hollow%20Knight%20Sticker.gif" width="120" /> 
 </div>
 
 <div align="center">
-  <img src="https://github.com/TFQ0/TFQ0/blob/main/Hollow%20Knight%20Sticker.gif" width="80" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TFQ0&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="500" /> 
 </div>
 
-<div align="right">
-  <img src="https://github.com/TFQ0/TFQ0/blob/main/Falling%20Asleep%20Hollow%20Knight%20Sticker%20by%20Xbox.gif" width="140" />
-</div>
