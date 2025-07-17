@@ -48,15 +48,14 @@
 
 ###
 
-<p align="center"> 
+<div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=TFQ0&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+</div>
 
 <div align="center">
   <img src="https://github.com/TFQ0/TFQ0/blob/main/Hollow%20Knight%20Sticker.gif" width="120" /> 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TFQ0&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="500" /> 
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TFQ0&theme=monokai-metallian&hide_border=true&short_numbers=true" width="500" />
 </div>
-
