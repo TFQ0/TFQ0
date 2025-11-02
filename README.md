@@ -65,9 +65,9 @@
 
 ###
 
-<div align="center"> 
+<!-- <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=TFQ0&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github.com/TFQ0/TFQ0/blob/main/Hollow%20Knight%20Sticker.gif" width="120" /> 
