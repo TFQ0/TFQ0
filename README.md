@@ -78,9 +78,11 @@
 </div>
 
 
-<h3 align="left">💻 Most Used Languages</h3>
+<h3 align="center">💻 Most Used Languages</h3>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfq0&layout=compact"
-  alt="Most Used Languages"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfq0&layout=compact"
+    alt="Most Used Languages"
+  />
+</p>
