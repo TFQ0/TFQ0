@@ -6,7 +6,7 @@
   <img src="https://github.com/TFQ0/TFQ0/blob/main/Manga%20Gon%20Sticker%20by%20Letablierdechloe%20(1).gif" width="140" /> 
 </div>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
