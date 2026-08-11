@@ -81,7 +81,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tfq0&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfq0&layout=compact"
     alt="Most Used Languages"
   />
 </p>
