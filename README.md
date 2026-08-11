@@ -80,8 +80,5 @@
 <h3 align="center">💻 Most Used Languages</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfq0&layout=compact"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TFQ0&layout=compact&langs_count=8&theme=darcula" alt="GitHub Stats" />
 </p>
