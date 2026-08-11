@@ -77,12 +77,11 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TFQ0&theme=monokai-metallian&hide_border=true&short_numbers=true" width="500" />
 </div>
 
-
 <h3 align="center">💻 Most Used Languages</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfq0&layout=compact"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tfq0&theme=github_dark"
     alt="Most Used Languages"
   />
 </p>
