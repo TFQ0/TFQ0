@@ -76,3 +76,11 @@
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TFQ0&theme=monokai-metallian&hide_border=true&short_numbers=true" width="500" />
 </div>
+
+
+<h3 align="left">💻 Most Used Languages</h3>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfq0&layout=compact"
+  alt="Most Used Languages"
+/>
