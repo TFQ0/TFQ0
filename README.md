@@ -1,9 +1,11 @@
-<h1 align="center">✨TFQ✨</h1>
-<h2 align="center">Software Engineer</h2>
-
 <div align="center">
-  <img src="https://github.com/TFQ0/TFQ0/blob/main/Manga%20Gon%20Sticker%20by%20Letablierdechloe.gif" width="140" /> 
-  <img src="https://github.com/TFQ0/TFQ0/blob/main/Manga%20Gon%20Sticker%20by%20Letablierdechloe%20(1).gif" width="140" /> 
+  <img src="https://github.com/TFQ0/TFQ0/blob/main/profile-header-dark.svg" width="700" /> 
+</div>
+
+<div>
+  <img align="left" src="https://github.com/TFQ0/TFQ0/blob/main/Manga%20Gon%20Sticker%20by%20Letablierdechloe.gif" width="140" /> 
+  <img align="right" src="https://github.com/TFQ0/TFQ0/blob/main/Manga%20Gon%20Sticker%20by%20Letablierdechloe%20(1).gif" width="140" /> 
+
 </div>
 
 <h3 align="center">🛠 Language and tools</h3>
